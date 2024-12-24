@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1920px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -39,4 +39,11 @@
 
 .read-the-docs {
   color: #888;
+}
+
+
+.screen-caption {
+  font-size: 1.0em;
+  color: #888;
+  text-align: center;
 }
